@@ -1,2 +1,2 @@
 # RemoteRepo
-This repo is for by Pratham.
+This repo is forked by Pratham.
